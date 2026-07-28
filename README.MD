@@ -1,8 +1,6 @@
 
 ### Olá, eu sou a Paloma 🖐🏽
 
-![Paloma Figueiredo GitHub stats](https://github-readme-stats.vercel.app/api?username=palomapfigueiredo&show_icons=true&theme=dracula)
-
 ## Tecnologias 
 
 <div style="display: inline_block"><br>
