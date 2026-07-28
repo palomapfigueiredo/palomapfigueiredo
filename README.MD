@@ -61,13 +61,5 @@ Desenvolvedora Full Stack com experiência em construção de aplicações web, 
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=palomapfigueiredo&show_icons=true&theme=tokyonight&hide_border=true&locale=pt-br" alt="GitHub Stats" height="165" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=palomapfigueiredo&theme=tokyonight&hide_border=true&locale=pt-br" alt="GitHub Streak" height="165" />
 </p>
-
----
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=palomapfigueiredo&color=6366F1&style=for-the-badge" alt="Profile views" />
-</p>
-
